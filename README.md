@@ -25,4 +25,5 @@
 - php artisan make:model Categoria
 
 # Participante 
-- Ruby Ramirez Encizo
+- Ruby Ramirez Enciso
+-link del video: 
