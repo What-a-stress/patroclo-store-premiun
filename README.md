@@ -26,4 +26,4 @@
 
 # Participante 
 - Ruby Ramirez Enciso
--link del video: 
+-link del video: https://isise-my.sharepoint.com/:v:/g/personal/rramireze_isise_edu_pe/EeHP3pvVctBBhJu1rI-FZNMBjyBFaw8LwdtH3q0UGa-e6A?e=Qfcsxo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
