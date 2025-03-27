@@ -23,3 +23,6 @@
 # comandos mas usados
 - php artisan make:controller CategoriaController
 - php artisan make:model Categoria
+
+# Participante 
+- Ruby Ramirez Encizo
